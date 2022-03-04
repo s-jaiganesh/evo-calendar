@@ -48,6 +48,7 @@
     position: relative;
     font-size: 30px;
     color: #fc9567;
+    background: #808080;
 }
 .orange-coral th[colspan="7"]::after {
     content: '';
