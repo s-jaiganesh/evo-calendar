@@ -48,7 +48,6 @@
     position: relative;
     font-size: 30px;
     color: #fc9567; 
-    background: #FFFFFF	!important;
 }
 .orange-coral th[colspan="7"]::after {
     content: '';
@@ -56,7 +55,7 @@
     width: 92%;
     height: 1px;
     margin: 0 auto;
-    background: #ff9966;
+    background: #FFFFFF	!important;
 }
 .orange-coral tr.calendar-body .calendar-day .day:hover {
     background-color: rgba(255, 153, 102, 0.32);
