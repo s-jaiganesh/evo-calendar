@@ -188,6 +188,7 @@ th[colspan="7"] {
     font-weight: 600;
     font-size: 30px;
     color: #8773c1;   
+    background-color: #FFFFFF !important;
 }
 th[colspan="7"]::after {
     content: '';
