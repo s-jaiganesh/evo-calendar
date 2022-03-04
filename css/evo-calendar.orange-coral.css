@@ -47,9 +47,7 @@
 .orange-coral th[colspan="7"] {
     position: relative;
     font-size: 30px;
-    color: #fc9567;
-    background: none repeat scroll 0 0 #BFBFBF;
-    [COLOR="Red"]overflow: hidden;[/COLOR]    
+    color: #fc9567;   
 }
 .orange-coral th[colspan="7"]::after {
     content: '';
