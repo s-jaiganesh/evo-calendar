@@ -153,6 +153,9 @@ input:focus, textarea:focus, button:focus {
     transition: all .3s ease;
     z-index: 1;
 }
+.initial {
+  all: initial;
+}
 .calendar-inner::after {
     content: none;
     position: absolute;
