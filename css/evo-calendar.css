@@ -188,7 +188,6 @@ th[colspan="7"] {
     font-weight: 600;
     font-size: 30px;
     color: #8773c1;   
-    background-color: #FFFFFF !important;
 }
 th[colspan="7"]::after {
     content: '';
@@ -200,7 +199,7 @@ th[colspan="7"]::after {
     -webkit-transform: translateX(-50%);
         -ms-transform: translateX(-50%);
             transform: translateX(-50%);
-    background-color: rgba(135, 115, 193, 0.15);
+    background-color: #FFFFFF !important;
 }
 tr.calendar-header {
 
