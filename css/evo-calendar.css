@@ -188,7 +188,7 @@ th[colspan="7"] {
     font-weight: 600;
     font-size: 30px;
     color: #8773c1;
-    background-color: inherit;
+    background-color: inherit !important;
 }
 th[colspan="7"]::after {
     content: '';
